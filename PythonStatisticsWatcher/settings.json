@@ -1,6 +1,7 @@
 {
-    "Bluetooth Address": "88:13:bf:04:43:7a",
+    "Bluetooth Address": "Replace with the Bluetooth Address of your ESP32",
     "Time Between Send Cycles": "5",
     "Write Timeout": "5",
     "Receive Timeout": "5"
+
 }
